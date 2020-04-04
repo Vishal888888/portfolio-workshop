@@ -3,4 +3,8 @@ title = "Contact"
 slug = "contact"
 +++
 
-Follow me, [@johndoe](https://www.twitter.com/johndoe).
+Email me at vishalbisht88@gmail.com
+
+Connect with me on [Linkedin](https://www.linkedin.com/in/vishal-bisht-648121198/).
+
+

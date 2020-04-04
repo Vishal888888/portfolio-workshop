@@ -1,14 +1,16 @@
 +++
-title = "About Me"
+title = "$whoami"
 slug = "about"
 +++
 
-Hi! My name is John Doe.
 
-I am a student studying a Bachelors of Dog Training at the University of Technology Sydney.
+Hello World!
 
-I like dogs, dogs, and dogs.
+I am studying Masters in Telecommunications and Cyber Security at the University of Technology Sydney.
+I enjoy working with computers and crawling around web in search for any technology related info, just to keep up with new trends.
 
-My future dreams and aspirations are to own at least 20 Golden Retrievers.
+A Fitness enthusiast, a guitarist and love practising ethical hacking and software engineering skills with of course a cup of coffee!
+
+
 
 ![Golden Retrievers](../images/golden-retrievers.jpg)

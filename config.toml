@@ -1,7 +1,8 @@
 baseurl = "https://vishalbisht.netlify.com/"
-title = "johndoe"
+title = "Vishal"
 
 theme = "hugo-coder"
+
 
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -17,23 +18,23 @@ pygmentscodefencesguesssyntax = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
+    author = "Vishal Singh Bisht"
     description = "John Doe's personal website"
-    keywords = "blog,developer,personal"
-    info = "L33t hacker and coder"
-    avatarurl = "images/avatar.jpg"
+    keywords = "blog,developer, cybersecurity,hacker,software engineer,personal"
+    info = "Software Engineering & Cyber Security Enthusiast"
+    avatarurl = "images/avatar.jpg"    #images/Linekdin.png
     #gravatar = "john.doe@example.com"
-    footercontent = "Enter a text here."
+    footercontent = "Are you a one or a zero?"
 
     dateformat = "2 January, 2006"
 
     hideCredits = false
     hideCopyright = false
-    since = 2019
+    since = 2020
 
     # Git Commit in Footer, uncomment the line below to enable it.
     commit = "https://github.com/luizdepra/hugo-coder/tree/"
-
+    
     rtl = false
 
     # Specify light/dark colorscheme
@@ -41,7 +42,7 @@ pygmentscodefencesguesssyntax = true
     # "auto" (use preference set by browser)
     # "dark" (dark background, light foreground)
     # "light" (light background, dark foreground) (default)
-    colorscheme = "auto"
+    colorscheme = "dark"
 
     # Series see also post count
     maxSeeAlsoItems = 5
@@ -67,27 +68,18 @@ pygmentscodefencesguesssyntax = true
     name = "Github"
     icon = "fab fa-github"
     weight = 1
-    url = "https://github.com/johndoe/"
-[[params.social]]
-    name = "Gitlab"
-    icon = "fab fa-gitlab"
-    weight = 2
-    url = "https://gitlab.com/johndoe/"
-[[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter"
-    weight = 3
-    url = "https://twitter.com/johndoe/"
+    url = "https://github.com/Vishal888888/"
+
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
     weight = 4
-    url = "https://www.linkedin.com/in/johndoe/"
+    url = "https://www.linkedin.com/in/vishal-bisht-648121198/"
 [[params.social]]
-    name = "Medium"
-    icon = "fab fa-medium"
+    name = "instagram"
+    icon = "fab fa-instagram"
     weight = 5
-    url = "https://medium.com/@johndoe"
+    url = "https://www.instagram.com/vishalbisht88/?hl=en"
 
 [languages]
     [languages.en]
@@ -112,7 +104,8 @@ pygmentscodefencesguesssyntax = true
 
 
     [languages.pt-br]
-        languagename = "Português"
+        #languagename = "Português"
+        languagename = "English"
         title = "João Ninguém"
 
         [languages.pt-br.params]
