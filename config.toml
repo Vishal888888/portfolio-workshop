@@ -1,5 +1,5 @@
 baseurl = "https://vishalbisht.netlify.com/"
-title = "Vishal"
+title = " Vishal "
 
 theme = "hugo-coder"
 
@@ -93,7 +93,7 @@ pygmentscodefencesguesssyntax = true
             url = "about/"
 
             [[languages.en.menu.main]]
-            name = "Blog"
+            name = "Posts"
             weight = 2
             url = "posts/"
 
@@ -102,5 +102,9 @@ pygmentscodefencesguesssyntax = true
             weight = 5
             url = "contact/"
 
+            [[languages.en.menu.main]]
+            name="Resume"
+            weight = 5
+            url="resume/"
 
    
