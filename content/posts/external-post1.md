@@ -1,6 +1,6 @@
 +++
 date = "2020-07-09"
-title = "Seurity in Cloud Computing"
+title = "SDN Technical Report"
 slug = "external-post-example"
 tags = [
     "hugo",
@@ -10,7 +10,7 @@ tags = [
 categories = [
     "Development",
 ]
-externalLink = "https://github.com/Vishal888888/Security-Technical-Report/blob/master/Security_in_cloud.pdf" 
+externalLink = "https://github.com/Vishal888888/SDN-Technical-Report/blob/master/NM_SDNAssignment_Vishal.pdf" 
 series = ["Hugo"]
 +++
 
